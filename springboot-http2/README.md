@@ -7,3 +7,4 @@
 2. 生成证书
 3. 修改springboot配置 
 4. 启动SpringbootHttp2Application.java
+5. 浏览器访问https://localhost:8443/user/1 
